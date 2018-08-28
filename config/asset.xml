@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<card>
+    <c1>asset/card/AC.png</c1>
+    <d1>asset/card/AD.png</d1>
+    <h1>asset/card/AH.png</h1>
+    <s1>asset/card/AS.png</s1>
+    <c2>asset/card/2C.png</c2>
+    <d2>asset/card/2D.png</d2>
+    <h2>asset/card/2H.png</h2>
+    <s2>asset/card/2S.png</s2>
+    <c3>asset/card/3C.png</c3>
+    <d3>asset/card/3D.png</d3>
+    <h3>asset/card/3H.png</h3>
+    <s3>asset/card/3S.png</s3>
+    <c4>asset/card/4C.png</c4>
+    <d4>asset/card/4D.png</d4>
+    <h4>asset/card/4H.png</h4>
+    <s4>asset/card/4S.png</s4>
+    <c5>asset/card/5C.png</c5>
+    <d5>asset/card/5D.png</d5>
+    <h5>asset/card/5H.png</h5>
+    <s5>asset/card/5S.png</s5>
+    <c6>asset/card/6C.png</c6>
+    <d6>asset/card/6D.png</d6>
+    <h6>asset/card/6H.png</h6>
+    <s6>asset/card/6S.png</s6>
+</card>
