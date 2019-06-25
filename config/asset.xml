@@ -24,4 +24,35 @@
     <d6>asset/card/6D.png</d6>
     <h6>asset/card/6H.png</h6>
     <s6>asset/card/6S.png</s6>
+<<<<<<< HEAD
+=======
+    <c7>asset/card/7C.png</c7>
+    <d7>asset/card/7D.png</d7>
+    <h7>asset/card/7H.png</h7>
+    <s7>asset/card/7S.png</s7>
+    <c8>asset/card/8C.png</c8>
+    <d8>asset/card/8D.png</d8>
+    <h8>asset/card/8H.png</h8>
+    <s8>asset/card/8S.png</s8>
+    <c9>asset/card/9C.png</c9>
+    <d9>asset/card/9D.png</d9>
+    <h9>asset/card/9H.png</h9>
+    <s9>asset/card/9S.png</s9>
+    <c10>asset/card/10C.png</c10>
+    <d10>asset/card/10D.png</d10>
+    <h10>asset/card/10H.png</h10>
+    <s10>asset/card/10S.png</s10>
+    <c11>asset/card/JC.png</c11>
+    <d11>asset/card/JD.png</d11>
+    <h11>asset/card/JH.png</h11>
+    <s11>asset/card/JS.png</s11>
+    <c12>asset/card/QC.png</c12>
+    <d12>asset/card/QD.png</d12>
+    <h12>asset/card/QH.png</h12>
+    <s12>asset/card/QS.png</s12>
+    <c13>asset/card/KC.png</c13>
+    <d13>asset/card/KD.png</d13>
+    <h13>asset/card/KH.png</h13>
+    <s13>asset/card/KS.png</s13>
+>>>>>>> Add asset
 </card>

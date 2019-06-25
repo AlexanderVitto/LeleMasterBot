@@ -1,4 +1,8 @@
 {
     "bot API" : "565767048:AAFAW25yKkRlO_Jv3OZX6X1QsjDzkrxGOyE",
+<<<<<<< HEAD
     "mongoDB" : "mongodb://127.0.0.1:27017/"
+=======
+    "mongoDB" : "mongodb+srv://alxva:Turn8Gundam!@cluster0-8cnpe.mongodb.net/test?retryWrites=true"
+>>>>>>> Add asset
 }

@@ -61,8 +61,13 @@ function timeOut(){
 function card(id,key){
     fs.readFile(__dirname + '/config/asset.xml', function(err, data) {
         parser.parseString(data, function (err, result) {
+<<<<<<< HEAD
             console.log(result['card'][key].toString());
             bot.sendPhoto(id,'./'+result['card'][key].toString());
+=======
+          var cardPack = [];
+          bot.sendPhoto(id,'./'+result['card'][key].toString());
+>>>>>>> Add asset
         });
     });
 }
