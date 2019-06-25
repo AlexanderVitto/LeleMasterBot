@@ -31,7 +31,7 @@ bot.on('message', (msg) => {
     
     if(msg.text.toString().charAt(0)=='/'){
       
-      bot.onText(/\/kampul kang (.+)/, function(msg,match){
+      bot.onText(/\/kampul kang siaaap (.+)/, function(msg,match){
         if(count==0){
           var id = msg.chat.id;
           var key = match[1].split("_")[0];
